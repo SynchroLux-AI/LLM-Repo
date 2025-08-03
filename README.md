@@ -1,7 +1,7 @@
 # LLM-Repo
 <h2> Overview </h2>
 
-This repository is dedicated to the development of Large Language Models (LLMs) aimed at advancing natural language processing capabilities. The project focuses on creating efficient, scalable, and ethically responsible LLMs for various applications, including text generation, question answering, and task automation.
+This repository is dedicated to the development of $\\color{yellow}{domain-specific Large Language Models (LLMs)}$ aimed at advancing natural language processing capabilities. The project focuses on creating efficient, scalable, and ethically responsible LLMs for various applications, including text generation, question answering, and task automation.
 
 <h2> Project Goals </h2>
 
@@ -9,11 +9,9 @@ The primary objectives of this project are:
 
 Model Development: Build LLMs from scratch or fine-tune existing models to achieve state-of-the-art performance in natural language understanding and generation.
 
-Efficiency: Optimize models for reduced computational requirements, enabling deployment on diverse hardware, including edge devices.
+<l1><b>Efficiency</b>: Optimize models for reduced computational requirements, enabling deployment on diverse hardware, including edge devices. </l1>
 
-Ethical AI: Ensure models are trained with fairness, transparency, and bias mitigation in mind.
-
-Open Collaboration: Foster a community-driven approach by sharing code, datasets, and research findings (where applicable).
+<!--Open Collaboration: Foster a community-driven approach by sharing code, datasets, and research findings (where applicable).-->
 
 <h2> Planned Features </h2>
 
