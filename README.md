@@ -8,8 +8,8 @@ This repository is dedicated to the development of $\\color{yellow}\text{domain-
 The primary objectives of this project are:
 
 Model Development: Build LLMs from scratch or fine-tune existing models to achieve state-of-the-art performance in natural language understanding and generation.
-<li> $\\color{yellow}\text{Domain-Specific LLMs}$: Develop or fine-tune LLMs optimized for specific domains, ensuring high performance in tasks like text generation, question answering, or document analysis within those fields. </li>
-<li> $\\color{yellow}\text{Efficiency}$: Optimize models for reduced computational requirements, enabling deployment on diverse hardware, including edge devices. </li>
+<li> **Domain-Specific LLMs**: Develop or fine-tune LLMs optimized for specific domains, ensuring high performance in tasks like text generation, question answering, or document analysis within those fields. </li>
+<li> **Efficiency**: Optimize models for reduced computational requirements, enabling deployment on diverse hardware, including edge devices. </li>
 
 <!--Open Collaboration: Foster a community-driven approach by sharing code, datasets, and research findings (where applicable).-->
 
