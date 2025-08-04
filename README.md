@@ -53,4 +53,4 @@ Encourage community contributions through issues and pull requests.
 
  
 <h2> Contact </h2>
-For questions or suggestions, please open an issue on this repository or contact the project maintainer at info@synchrolux.org
+For questions or suggestions, please open an issue on this repository or contact the project maintainer at info[at]synchrolux[dot]org.
