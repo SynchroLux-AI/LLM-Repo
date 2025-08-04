@@ -27,25 +27,25 @@ Deployment: Provide tools for deploying LLMs in production environments, such as
 Documentation: Maintain detailed documentation for model usage, training procedures, and contribution guidelines.
 
 <h2> Roadmap </h2>
-Phase 1: Research and Setup
+<li>Phase 1: Research and Setup</li>
 
 Conduct literature review on existing LLM architectures and training methodologies.
 
 Set up the repository with initial scripts for data preprocessing and model prototyping.
 
-Phase 2: Model Development
+<li>Phase 2: Model Development</li>
 
 Implement baseline LLM architecture.
 
 Experiment with training on publicly available datasets.
 
-Phase 3: Optimization and Fine-Tuning
+<li>Phase 3: Optimization and Fine-Tuning</li>
 
 Optimize model performance and efficiency.
 
 Fine-tune models for specific tasks (e.g., chatbots, summarization).
 
-Phase 4: Deployment and Community Engagement
+<li>Phase 4: Deployment and Community Engagement</li>
 
 Release pre-trained models and deployment tools.
 
