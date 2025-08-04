@@ -1,7 +1,7 @@
 # LLM-Repo
 <h2> Overview </h2>
 
-This repository is dedicated to the development of $\\color{yellow}\text{Large Language Models (LLMs) specific to scientific domains}$ and aimed at advancing natural language processing capabilities. The project focuses on creating efficient, scalable, and ethically responsible LLMs for various applications, including text generation, question answering, and task automation.
+This repository is dedicated to the development of $\\color{yellow}\text{Large Language Models (LLMs) specific to a scientific domain}$ and aimed at advancing natural language processing capabilities. The project focuses on creating efficient, scalable, and ethically responsible LLMs for various applications, including text generation, question answering, and task automation.
 
 <h2> Project Goals </h2>
 
